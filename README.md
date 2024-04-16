@@ -13,7 +13,7 @@ To use `kzgpad-rs` in your Rust project, add the following to your `Cargo.toml` 
 
 ```toml
 [dependencies]
-kzgpad-rs = { git = "https://github.com/Layr-Labs/kzgpad-rs.git" }
+kzgpad-rs = { git = "https://github.com/Layr-Labs/kzgpad-rs.git" tag = "v0.1.0" }
 ```
 
 ## Usage
